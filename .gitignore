@@ -1,0 +1,31 @@
+# Backend specific
+/backend/node_modules/
+/backend/.env
+/backend/blockchain.js
+/backend/firebaseAdmin.js
+/backend/package-lock.json
+/backend/package.json
+/backend/server.js
+/backend/tram-d50c2-firebase-adminsdk-fbsvc-19b001fb7d.json
+
+# Blockchain specific
+/Blockchain/build/
+/Blockchain/client/
+/Blockchain/contracts/
+/Blockchain/migrations/
+/Blockchain/test/
+/Blockchain/truffle-config.js
+
+# Frontend specific
+/frontend/node_modules/
+/frontend/public/
+/frontend/src/
+/frontend/.env
+/frontend/.gitignore
+/frontend/package-lock.json
+/frontend/package.json
+
+# Root level
+/node_modules/
+/package-lock.json
+/package.json
