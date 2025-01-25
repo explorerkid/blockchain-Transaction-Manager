@@ -15,10 +15,7 @@
 **/tram-d50c2-firebase-adminsdk-fbsvc-19b001fb7d.json
 
 # Ignore blockchain artifacts
-**/contracts/
-**/migrations/
-**/test/
-**/truffle-config.js
+
 
 # System and IDE files
 .DS_Store
@@ -30,5 +27,3 @@ Thumbs.db
 
 # Ignore frontend-specific files
 frontend/.gitignore
-frontend/src/
-frontend/public/
